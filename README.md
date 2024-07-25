@@ -12,8 +12,8 @@
         <div class="conteudo">
             <div class="botoes">
                 <button class="botao">Ganhar muito dinheiro</button>
-                <button class="botao">Ir ao Japao</button>
-                <button class="botao">comprar um hotwels</button>
+                <button class="botao">Ir a Califórnia</button>
+                <button class="botao">comprar um celular novo</button>
                 <button class="botao">programar um site</button>
             </div>
         </div>
